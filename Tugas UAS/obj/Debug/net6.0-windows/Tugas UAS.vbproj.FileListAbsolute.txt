@@ -1,0 +1,17 @@
+C:\Users\wahyu\Documents\Tugas UAS\Tugas UAS\bin\Debug\net6.0-windows\Tugas UAS.exe
+C:\Users\wahyu\Documents\Tugas UAS\Tugas UAS\bin\Debug\net6.0-windows\Tugas UAS.deps.json
+C:\Users\wahyu\Documents\Tugas UAS\Tugas UAS\bin\Debug\net6.0-windows\Tugas UAS.runtimeconfig.json
+C:\Users\wahyu\Documents\Tugas UAS\Tugas UAS\bin\Debug\net6.0-windows\Tugas UAS.dll
+C:\Users\wahyu\Documents\Tugas UAS\Tugas UAS\bin\Debug\net6.0-windows\Tugas UAS.pdb
+C:\Users\wahyu\Documents\Tugas UAS\Tugas UAS\obj\Debug\net6.0-windows\Tugas UAS.vbproj.AssemblyReference.cache
+C:\Users\wahyu\Documents\Tugas UAS\Tugas UAS\obj\Debug\net6.0-windows\Tugas_UAS.Form1.resources
+C:\Users\wahyu\Documents\Tugas UAS\Tugas UAS\obj\Debug\net6.0-windows\Tugas UAS.vbproj.GenerateResource.cache
+C:\Users\wahyu\Documents\Tugas UAS\Tugas UAS\obj\Debug\net6.0-windows\Tugas UAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wahyu\Documents\Tugas UAS\Tugas UAS\obj\Debug\net6.0-windows\Tugas UAS.AssemblyInfoInputs.cache
+C:\Users\wahyu\Documents\Tugas UAS\Tugas UAS\obj\Debug\net6.0-windows\Tugas UAS.AssemblyInfo.vb
+C:\Users\wahyu\Documents\Tugas UAS\Tugas UAS\obj\Debug\net6.0-windows\Tugas UAS.vbproj.CoreCompileInputs.cache
+C:\Users\wahyu\Documents\Tugas UAS\Tugas UAS\obj\Debug\net6.0-windows\Tugas UAS.dll
+C:\Users\wahyu\Documents\Tugas UAS\Tugas UAS\obj\Debug\net6.0-windows\refint\Tugas UAS.dll
+C:\Users\wahyu\Documents\Tugas UAS\Tugas UAS\obj\Debug\net6.0-windows\Tugas UAS.pdb
+C:\Users\wahyu\Documents\Tugas UAS\Tugas UAS\obj\Debug\net6.0-windows\Tugas UAS.genruntimeconfig.cache
+C:\Users\wahyu\Documents\Tugas UAS\Tugas UAS\obj\Debug\net6.0-windows\ref\Tugas UAS.dll
